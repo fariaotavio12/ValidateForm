@@ -1,3 +1,7 @@
+### 0. Criar o Arquivo createValidators.js
+
+Primeiro, crie um arquivo JavaScript chamado createValidators.js. Esse arquivo será responsável por armazenar as funções de validação, que você poderá usar em qualquer evento de formulário.
+
 ### **1. Validação de Campo Obrigatório (required)**
 
 Valida se o campo foi preenchido (não pode ser vazio).
@@ -349,3 +353,4 @@ function getValidacoes() {
 }
 
 ```
+
